@@ -1,6 +1,6 @@
-## Job Description
+# Job Description
 
-# Customer Demand
+## Customer Demand
 
 I need someone's help to amend the attached codipen's share buttons:
 https://codepen.io/heyvian/pen/DeGXex
